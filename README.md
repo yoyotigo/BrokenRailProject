@@ -1,4 +1,4 @@
-![RoR](https://imgur.com/r593GAO)
+![RoR](https://i.imgur.com/r593GAO.jpg)
 # README
 
 This README would normally document whatever steps are necessary to get the
