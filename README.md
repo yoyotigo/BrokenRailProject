@@ -1,3 +1,4 @@
+![RoR](https://imgur.com/r593GAO)
 # README
 
 This README would normally document whatever steps are necessary to get the
