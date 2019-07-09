@@ -12,3 +12,6 @@
 -Have a profile<br/>
 -Search forum<br/>
 -Comment / contribute to forums
+
+# Gem List
+![Gems](https://i.imgur.com/PfhwbJj.png)
