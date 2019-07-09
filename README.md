@@ -3,9 +3,9 @@
 #### Forum posts have:
 -Categories<br/>
 -Date published<br/>
--Comments (Author name, date)<br/>
+-Comments (Author name, date)
 #### Guests can:
--Read forum posts<br/>
+-Read forum posts
 #### Admins can:
 -Delete forums
 #### Users can:
