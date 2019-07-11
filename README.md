@@ -15,3 +15,6 @@
 
 # Gem List
 ![Gems](https://i.imgur.com/PfhwbJj.png)
+
+# Security Implementations
+-Password_Digest, passwords encrypted with bcrypt
