@@ -17,4 +17,5 @@
 ![Gems](https://i.imgur.com/PfhwbJj.png)
 
 # Security Implementations
--Password_Digest, passwords encrypted with bcrypt
+-Password_Digest, passwords encrypted with bcrypt<br/>
+-Users who did not create forum post cannot edit or delete post
