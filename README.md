@@ -1,4 +1,5 @@
-![RoR](https://i.imgur.com/r593GAO.jpg)<br/>
+![RoR](https://i.imgur.com/r593GAO.jpg)<br/><br/>
+
 Under Development....
 # Forum
 #### Forum posts have:
