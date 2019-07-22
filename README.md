@@ -20,4 +20,5 @@ Under Development....
 
 # Security Implementations
 -Password_Digest, passwords encrypted with bcrypt<br/>
--Users who did not create forum post cannot edit or delete post
+-Users who did not create forum post cannot edit or delete post<br/>
+-Unsolved potential CSRF vulnerability
