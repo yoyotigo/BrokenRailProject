@@ -10,7 +10,7 @@
   </head>
 
   <body>
-    
+
 
       <div class="navbar-fixed">
         <nav class="black darken-2">
@@ -18,8 +18,12 @@
             <div class="container">
             <%= link_to "Forum", root_path, class: "brand-logo" %>
             <ul class="right hide-on-med-and-down">
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
+              <% if user_signed_in? %>
+              <li><%= link_to "Logout", destroy_user_session_path, method: :delete %></li>
+              <% else %>
+              <%= link_to "Login",  new_user_session_path %>
+              <%= link_to "Signup", new_user_registration_path %>
+              <% end %>
             </ul>
           </div>
           </div>
@@ -27,8 +31,8 @@
       </div>
 
     <div class="container">
-      <p class="notice"><%= notice %></p>
-       <p class="alert"><%= alert %></p>
+      <% if notice %><p class="alert alert-info"><%= notice %></p><% end %>
+      <% if alert %><p class="alert alert-warning"><%= alert %></p><% end %>
 
 
     <%= yield %>
