@@ -1,24 +1,24 @@
-# README
+![RoR](https://i.imgur.com/r593GAO.jpg)<br/><br/>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Under Development....
+# Forum
+#### Forum posts have:
+-Categories<br/>
+-Date published<br/>
+-Comments (Author name, date)
+#### Guests can:
+-Read forum posts
+#### Admins can:
+-Delete forums
+#### Users can:
+-Have a profile<br/>
+-Search forum<br/>
+-Comment / contribute to forums
 
-Things you may want to cover:
+# Gem List
+![Gems](https://i.imgur.com/PfhwbJj.png)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Security Implementations
+-Password_Digest, passwords encrypted with bcrypt<br/>
+-Users who did not create forum post cannot edit or delete post<br/>
+-Unsolved potential CSRF vulnerability
